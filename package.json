@@ -1,0 +1,25 @@
+{
+  "name": "code-edu-desafio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasPorto26/Code-Edu-Desafio.git"
+  },
+  "keywords": [
+    "codeeducation"
+  ],
+  "author": "Lucas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LucasPorto26/Code-Edu-Desafio/issues"
+  },
+  "homepage": "https://github.com/LucasPorto26/Code-Edu-Desafio#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
